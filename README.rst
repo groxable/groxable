@@ -1,4 +1,5 @@
 .. image:: https://raw.githubusercontent.com/groxable/gh-stats/master/generated/overview.svg#gh-dark-mode-only
+.. image:: https://raw.githubusercontent.com/groxable/gh-stats/master/generated/overview.svg#gh-light-mode-only
 
 Hello!
 ======
